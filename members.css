@@ -7,17 +7,21 @@ p{
 body{
   margin: 50px 50px 50px 50px;
   justify-content: center;
+  background-color: #fcffe0;
 }
 .title{
   text-align: center;
+  color:#75a47f;
 }
 .member p{
   text-align: center;
+  color: #f5dad2;
+  font-weight: 600;
 }
 .member{
   width: 450px;
   height: auto;
-  background-color: rgb(210, 210, 255);
+  background-color: #bacd92;
   margin-bottom: 20px;
   justify-content: center;
 }
