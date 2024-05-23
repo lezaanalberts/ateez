@@ -1,7 +1,39 @@
+*{
+  font-family:quicksand;
+}
+p{
+  margin: 1px 1px 1px 1px;
+}
+body{
+  margin: 50px 50px 50px 50px;
+  justify-content: center;
+}
+.title{
+  text-align: center;
+}
+.member p{
+  text-align: center;
+}
+.member{
+  width: 450px;
+  height: auto;
+  background-color: rgb(210, 210, 255);
+  margin-bottom: 20px;
+  justify-content: center;
+}
+.member > p{
+  font-weight: 600;
+  display: block;
+  margin-left: 0;
+  margin-right: 0;
+  display:inherit;
+}
+
 .member > img{
   width: 400px;
   height: 400px;
   max-width: 400px;
   max-height: 400px;
   object-fit: cover;
+  justify-content: center;
 }

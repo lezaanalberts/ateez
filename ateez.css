@@ -21,13 +21,13 @@
   vertical-align: top;
   margin-left: 20px;
 }
-.lightstick{
+.lightstick, .disco, .members{
   color: #f8c6e0;
 }
-.lightstick:visited{
+.lightstick, .disco, .members:visited{
   color: #ce94b2;
 }
-.lightstick:hover{
+.lightstick,.disco, .members :hover{
   font-weight: 700;
 }
 
