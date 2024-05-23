@@ -4,7 +4,9 @@
 .body{
   background-color: #ffcdea;
 }
-
+div{
+  margin-top: 10px;
+}
 .merch, .spotify, .new-news{
   width: 300px;
   height: 350px;
@@ -19,7 +21,6 @@
   text-align: center;
   background-color: white;
   vertical-align: top;
-  margin-left: 20px;
 }
 
 .lightstick, .disco, .members{
@@ -97,6 +98,7 @@
   text-align: center;
   background-color: white;
   vertical-align: top;
+  margin-right: 20px;
 }
 
 .spotify-img{
