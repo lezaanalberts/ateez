@@ -2,7 +2,14 @@
   justify-content: center;
   font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
-
+  div{
+  width: 450px;
+  height: auto;
+  background-color: rgb(245, 245, 255);
+  margin-bottom: 20px;
+  justify-content: center;
+  }
+  
 .type{
   color: gray;
   padding-top: 0;
@@ -12,7 +19,7 @@
 }
 
 .page{
-  background-color: rgb(255, 231, 235);
+  background-color: rgb(255, 255, 255);
   padding: 5 5 5 5;
   margin-left: 50px;
   margin-right: 50px;
@@ -24,7 +31,7 @@ h2{
   justify-content: center;
   margin-bottom: 0;
   font-family:Arial, Helvetica, sans-serif;
-  color: #963969;
+  color: rgb(184, 184, 213);
 }
 img{
   max-width: 350px;
@@ -34,7 +41,7 @@ img{
 
 .date{
   font-size: 14px;
-  color: gray;
+  color: rgb(153, 153, 153);
   margin-top: 0;
   padding-top: 0;
 }
@@ -42,5 +49,5 @@ img{
 li{
   font-size: 16px;
   justify-content: center;
-
+  color:rgb(118, 118, 122)
 }

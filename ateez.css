@@ -2,7 +2,7 @@
   font-family: Arial, Helvetica, sans-serif;
 }
 .body{
-  background-color: #f7e8ef ;
+  background-color: #ffe6e6;
 }
 
 .merch, .spotify, .new-news{
@@ -21,14 +21,17 @@
   vertical-align: top;
   margin-left: 20px;
 }
+
 .lightstick, .disco, .members{
-  color: #f8c6e0;
+  color: #e1afd1;
 }
+
 .lightstick, .disco, .members:visited{
-  color: #ce94b2;
+  color: #ad88c6;
 }
-.lightstick,.disco, .members :hover{
-  font-weight: 700;
+
+.lightstick, .disco, .members :hover{
+  color: #7469b6;
 }
 
 .lightstick-img{
@@ -42,7 +45,7 @@
   margin-top: 0;
   margin-left: 0;
   margin-right: 0;
-  color:#ce94b2;
+  color:#7469b6;
   text-align: center;
   font-style: italic;
 }
@@ -50,7 +53,7 @@
 .lyrics{
   font-family: Noto Sans Korean;
   font-weight: 700;
-  color:#ce94b2;
+  color:#ad88c6;
 }
 .header{
   align-content: center;
