@@ -1,0 +1,112 @@
+*{
+  font-family: Arial, Helvetica, sans-serif;
+}
+.body{
+  background-color: #f7e8ef ;
+}
+
+.merch{
+  display: inline-block;
+  width: 250px;
+  align-content: center;
+  text-align: center;
+  background-color: white;
+  margin-top: 15px;
+}
+.lightstick{
+  color: #f8c6e0;
+}
+.lightstick:visited{
+  color: #ce94b2;
+}
+.lightstick:hover{
+  font-weight: 700;
+}
+
+.lightstick-img{
+  width: 200px;
+  border-radius: 5px;
+}
+
+.heading{
+  font-size: 70px;
+  margin-bottom: 0;
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 0;
+  color:#ce94b2;
+  text-align: center;
+  font-style: italic;
+}
+
+.lyrics{
+  font-family: Noto Sans Korean;
+  font-weight: 700;
+  color:#ce94b2;
+}
+.header{
+  width: 100%;
+  align-content: center;
+  display: block;
+}
+
+.header-img{
+  align-content: center;
+  display: inline-block;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  max-height: 400px;
+}
+.comeback-img{
+  width: 200px;
+  border-radius: 5px;
+}
+
+.order-link:visited{
+  color: #25465f;
+}
+.order-link:hover{
+  opacity: 0.7;
+  
+}
+
+.new-news{
+  display: inline-block;
+  width: 250px;
+  background-color: white;
+  align-content: center;
+  text-align: center;
+  margin-right: 20px;
+  vertical-align: top;
+}
+
+.spotify{
+  display: inline-block;
+  width: 250px;
+  align-content: center;
+  text-align: center;
+  background-color: white;
+  vertical-align: top;
+}
+.spotify-img{
+  width: 200px;
+  border-radius: 10px;
+}
+.important{
+  font-weight:800;
+}
+
+.playing{
+  font-weight: 700;
+  
+}
+
+.preorder-text{
+  color: #b3986d;
+}
+
+.about-ateez{
+  background-color: white;
+  display: block;
+}
