@@ -5,13 +5,21 @@
   background-color: #f7e8ef ;
 }
 
+.merch, .spotify, .new-news{
+  width: 300px;
+  height: 350px;
+  max-width: 300px;
+  max-height: 350px;
+}
+
 .merch{
   display: inline-block;
   width: 250px;
   align-content: center;
   text-align: center;
   background-color: white;
-  margin-top: 15px;
+  vertical-align: top;
+  margin-left: 20px;
 }
 .lightstick{
   color: #f8c6e0;
@@ -45,14 +53,12 @@
   color:#ce94b2;
 }
 .header{
-  width: 100%;
   align-content: center;
+  width: 100%;
   display: block;
 }
 
 .header-img{
-  align-content: center;
-  display: inline-block;
   width: 100%;
   max-width: 100%;
   height: auto;
@@ -89,6 +95,7 @@
   background-color: white;
   vertical-align: top;
 }
+
 .spotify-img{
   width: 200px;
   border-radius: 10px;
